@@ -1,0 +1,6 @@
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net5.0-windows10.0.17763.0\Keylogger.csproj.AssemblyReference.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net5.0-windows10.0.17763.0\Keylogger.csproj.ResolveComReference.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net5.0-windows10.0.17763.0\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net5.0-windows10.0.17763.0\Keylogger.AssemblyInfoInputs.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net5.0-windows10.0.17763.0\Keylogger.AssemblyInfo.cs
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net5.0-windows10.0.17763.0\Keylogger.csproj.CoreCompileInputs.cache

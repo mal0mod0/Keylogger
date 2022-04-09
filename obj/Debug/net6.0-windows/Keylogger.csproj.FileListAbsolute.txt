@@ -1,0 +1,16 @@
+C:\Users\Simone\source\repos\Keylogger\bin\Debug\net6.0-windows\Keylogger.exe
+C:\Users\Simone\source\repos\Keylogger\bin\Debug\net6.0-windows\Keylogger.deps.json
+C:\Users\Simone\source\repos\Keylogger\bin\Debug\net6.0-windows\Keylogger.runtimeconfig.json
+C:\Users\Simone\source\repos\Keylogger\bin\Debug\net6.0-windows\Keylogger.dll
+C:\Users\Simone\source\repos\Keylogger\bin\Debug\net6.0-windows\Keylogger.pdb
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.csproj.AssemblyReference.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.csproj.ResolveComReference.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.AssemblyInfoInputs.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.AssemblyInfo.cs
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.dll
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\refint\Keylogger.dll
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.pdb
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\Keylogger.genruntimeconfig.cache
+C:\Users\Simone\source\repos\Keylogger\obj\Debug\net6.0-windows\ref\Keylogger.dll
